@@ -4,7 +4,7 @@
  I mainly work on Java related projects but am open to learn new technologies.
  My recent learning are in Blockchain and Data Science area.
  Apart from it i am also exploring Apache Kafka.
- You can find me on [![LinkedIn][1.1]][1].
+ You can find me also on [![LinkedIn][1.1]][1].
  
 [1.1]: https://raw.githubusercontent.com/jaiswalvik/jaiswalvik/master/linkedin-3-16.png (LinkedIn icon without padding)
 
