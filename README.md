@@ -1,5 +1,9 @@
-### Hi there 👋
-
+### Hi 👋
+### I'm Vikas Jaiswal a Software Engineer currently enrolled in IIT Madras - BS(Data Science).
+### I have more than 13+ years of experience in IT working for large corporations and startups.
+### I mainly work on Java related projects but am open to learn new technologies.
+### My recent learning are in Bloackchain and Data Science area.
+### Apart from it i am also exploring Apache Kafka.
 <!--
 **jaiswalvik/jaiswalvik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
