@@ -4,13 +4,11 @@
  I mainly work on Java related projects but am open to learn new technologies.
  My recent learning are in Blockchain and Data Science area.
  Apart from it i am also exploring Apache Kafka.
- You can find me on [![Twitter][1.1]][1],  or on [![LinkedIn][1.2]][2].
+ You can find me on [![LinkedIn][1.1]][1].
  
-[1.1]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[1.2]: https://raw.githubusercontent.com/jaiswalvik/jaiswalvik/master/linkedin-3-16.png (LinkedIn icon without padding)
+[1.1]: https://raw.githubusercontent.com/jaiswalvik/jaiswalvik/master/linkedin-3-16.png (LinkedIn icon without padding)
 
-[1]: https://twitter.com/vikasjaiswal
-[2]: https://www.linkedin.com/in/vikasjaiswal/
+[1]: https://www.linkedin.com/in/vikasjaiswal/
 
 <!--
 **jaiswalvik/jaiswalvik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
