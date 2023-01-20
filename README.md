@@ -1,5 +1,5 @@
 ### Hi 👋
- I'm Vikas Jaiswal a Software Engineer currently enrolled in [IIT Madras - BS Data Science](https://www.onlinedegree.iitm.ac.in/).
+ I'm Vikas Jaiswal a Software Engineer currently enrolled in [IIT Madras - BS Data Science](https://study.iitm.ac.in/ds/).
  I work for [Saksoft](https://www.saksoft.com) an IT service company. [WE-can-end Craving](https://wecanendcraving.github.io) is a project that i did while on a sabatical from work(2016-2018).
  This helped me to hone by business skills. 
  I have more than 17+ years of experience in IT working for large corporations and startups.
