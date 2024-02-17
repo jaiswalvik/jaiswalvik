@@ -5,7 +5,7 @@
  I have more than 18+ years of experience in IT working for large corporations and startups.
  I mainly work on Java related projects but am open to learn new technologies.
  My recent learning are in Blockchain and Data Science area.
- Apart from it i am also exploring [Apache Camel](https://camel.apache.org/),[Apache Kafka](https://kafka.apache.org/) & [Apache OFBiz](https://ofbiz.apache.org/).
+ Apart from it i am also exploring [Apache Camel](https://camel.apache.org/), [Apache Kafka](https://kafka.apache.org/) & [Apache OFBiz](https://ofbiz.apache.org/).
  You can also find me on [![LinkedIn][1.1]][1].
  
 [1.1]: https://raw.githubusercontent.com/jaiswalvik/jaiswalvik/master/linkedin-3-16.png (LinkedIn icon without padding)
